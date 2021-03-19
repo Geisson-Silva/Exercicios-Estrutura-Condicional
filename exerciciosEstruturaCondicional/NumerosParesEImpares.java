@@ -3,13 +3,13 @@ package exerciciosEstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class numerosParesEImpares {
+public class NumerosParesEImpares {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite um número: ");
+		System.out.println("Digite um nÃºmero: ");
 		int x = sc.nextInt();
 		
 		if (x % 2 == 0){
