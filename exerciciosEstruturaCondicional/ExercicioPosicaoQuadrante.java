@@ -3,7 +3,7 @@ package exerciciosEstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicioPosicaoQuadrante {
+public class ExercicioPosicaoQuadrante {
 
 	public static void main(String[] args) {
 
