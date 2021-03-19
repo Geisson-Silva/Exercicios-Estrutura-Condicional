@@ -2,7 +2,7 @@ package exerciciosEstruturaCondicional;
 
 import java.util.Scanner;
 
-public class exercicioContaLanches {
+public class ExercicioContaLanches {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
