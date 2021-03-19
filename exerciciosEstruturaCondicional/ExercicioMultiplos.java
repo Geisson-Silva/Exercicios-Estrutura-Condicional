@@ -3,7 +3,7 @@ package exerciciosEstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicioMultiplos {
+public class ExercicioMultiplos {
 
 	public static void main(String[] args) {
 	
