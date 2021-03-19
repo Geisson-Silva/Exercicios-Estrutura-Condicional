@@ -3,7 +3,7 @@ package exerciciosEstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicioImpostoDeRenda {
+public class ExercicioImpostoDeRenda {
 
 	public static void main(String[] args) {
 
